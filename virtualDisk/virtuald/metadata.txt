@@ -1,0 +1,5 @@
+
+The first 8 bytes of the virtual disk holds the size of the metadata
+The next 8 bytes hold the total size of virtual disk
+The next 8 bytes hold the location of the starting point of next free data space
+The next 8 bytes hold the ending point of pointer data
